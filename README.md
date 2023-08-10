@@ -42,7 +42,7 @@ Before you dive into this Python adventure, you'll need a few tools:
 
 ## Getting Started 🚀
 
-To embark on your Python adventure, simply clone the repo or download the desired `.py` file, navigate to the file, and execute it in your preferred Python environment.
+To embark on your Python adventure, simply clone the repo or download the [`python_basics_hodel33.py`](./python_basics_hodel33.py) file, navigate to its location on your hard drive, and execute it in your preferred Python environment.
 
 **What's featured in the guide**:
 - 📖 **Narrative Comments**: Think of the comments as your narrative roadmap, enriched with fun analogies that transform learning Python into a captivating adventure.
