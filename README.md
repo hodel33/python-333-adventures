@@ -50,7 +50,11 @@ To embark on your Python adventure, simply clone the repo or download the [`pyth
 - 💡 **Executable Code**: Don't just read; interact! Run the Python file to see the outcomes of the examples provided and grasp how the code works.
 
 ## Feedback & Connect 💬
-Loved the guide? Have suggestions? Feel free to [open an issue](https://github.com/your-username/python-333-adventures/issues) or connect with me on [Twitter](https://twitter.com/hodel33).
+Loved the guide? Have suggestions? <br>
+Feel free to [open an issue](https://github.com/your-username/python-333-adventures/issues) or connect with me on:
+[LinkedIn](https://www.linkedin.com/in/bjornhodel), 
+[Twitter](https://twitter.com/hodel33) or 
+[Instagram](https://www.instagram.com/hodel33).
 
 ---
 
