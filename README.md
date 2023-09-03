@@ -19,6 +19,8 @@ This guide isn't just a tutorial — it's a journey. As you navigate through, yo
 - Loops
 - Functions
 
+<br>
+
 ## 🛠️ Prerequisites
 
 Before you dive into this Python adventure, you'll need a few tools:
@@ -40,6 +42,8 @@ Before you dive into this Python adventure, you'll need a few tools:
 3. **An Excited and Curious Mind!** 🧠✨
    While not a tool, having an open mindset to learn and explore is the most important prerequisite of all.
 
+<br>
+
 ## 🚀 Getting Started
 
 To embark on your Python adventure, simply clone the repo or download the [`python_basics_hodel33.py`](./python_basics_hodel33.py) file, navigate to its location on your hard drive, and execute it in your preferred Python environment.
@@ -49,6 +53,8 @@ To embark on your Python adventure, simply clone the repo or download the [`pyth
   
 - 💡 **Executable Code**: Don't just read; interact! Run the Python file to see the outcomes of the examples provided and grasp how the code works.
 
+<br>
+
 ## 📝 Note: Progress at Your Own Pace
 
 This guide is designed for you to go through the code step-by-step. If you're running the code, it's a good idea to comment out the sections you haven't gotten to yet. This way, you can focus on mastering each concept before moving on to the next.
@@ -56,6 +62,8 @@ This guide is designed for you to go through the code step-by-step. If you're ru
 To comment out multiple lines at once, use a keyboard shortcut. In most IDEs like VS Code, the standard shortcut is `CTRL + /`. Simply highlight the lines you want to comment out, and press the shortcut. If you'd like to customize this keyboard shortcut, you can do so by going to `Settings > Keyboard Shortcuts` in your IDE.
 
 Feel free to uncomment sections as you progress through your Python adventure.
+
+<br>
 
 ## 💬 Feedback & Contact
 
