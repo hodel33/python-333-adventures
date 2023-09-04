@@ -21,7 +21,7 @@ This guide isn't just a tutorial — it's a journey. As you navigate through, yo
 
 <br>
 
-## ⚙️ Prerequisites
+## 🛠️ Prerequisites
 
 Before you dive into this Python adventure, you'll need a few tools:
 
