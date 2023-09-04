@@ -7,7 +7,7 @@ Born out of a sunny endeavor in the summer of 2023, this repository was my initi
 
 This guide isn't just a tutorial — it's a journey. As you navigate through, you'll encounter playful analogies and hands-on examples designed to enrich your introduction to Python. So, are you ready to embark on this 333-line adventure through the fascinating realm of Python? Dive in and let the coding fun begin!
 
-### Inside "Python Basics":
+### 🌟 Inside "Python Basics":
 - Data Types
 - Variables
 - Formatted Strings
@@ -21,7 +21,7 @@ This guide isn't just a tutorial — it's a journey. As you navigate through, yo
 
 <br>
 
-## 🛠️ Prerequisites
+## ⚙️ Prerequisites
 
 Before you dive into this Python adventure, you'll need a few tools:
 
